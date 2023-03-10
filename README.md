@@ -3,9 +3,9 @@
 <img height="120em" align="right" alt="Gif-Cat" src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif">
 <ul>
 <li>🤖 Working as Quality Assurance.</li>
-<li>👨‍🎓 Majoring in Information Systems 8/8 </li>
-<li>💻 Studying front end & back end</li>
-<li>🚀 Future Full Stack Developer </li>
+<li>👨‍🎓 Majoring in Information Systems </li>
+<li>💻 Studying QA</li>
+<li>🚀 Future Full Stack QA </li>
 </ul>
 
 ##
