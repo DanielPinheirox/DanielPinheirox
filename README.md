@@ -1,6 +1,7 @@
-## <h1> Hello my friend! All in peace! </h1>
+## <h1> Hi 👋 My name is Daniel </h1>
 
-<img height="120em" align="right" alt="Gif-Cat" src="https://media.giphy.com/media/VOPK1BqsMEJRS/giphy.gif">
+##<h3>Test Analyst / Quality Assurance</h3>
+
 <ul>
 <li>🤖 Working as Quality Assurance.</li>
 <li>👨‍🎓 Majoring in Information Systems </li>
