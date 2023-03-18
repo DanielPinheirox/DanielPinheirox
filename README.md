@@ -1,6 +1,6 @@
 ## <h1> Hi 👋 My name is Daniel </h1>
 
-##<h3>Test Analyst / Quality Assurance</h3>
+<h3>Test Analyst / Quality Assurance</h3>
 
 <ul>
 <li>🤖 Working as Quality Assurance.</li>
@@ -8,8 +8,6 @@
 <li>💻 Studying QA</li>
 <li>🚀 Future Full Stack QA </li>
 </ul>
-
-##
 
  <div>
   <a href="https://github.com/DanielPinheirox">
