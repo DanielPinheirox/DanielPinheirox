@@ -9,6 +9,7 @@
 <li>🚀 Future Full Stack QA </li>
 </ul>
 
+
  <div>
   <a href="https://github.com/DanielPinheirox">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DanielPinheirox&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
