@@ -1,32 +1,3 @@
-</div>
-
-<p align="center">
-    <a href="#">
-      <img align="center" width="500" src="https://media2.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e47f4k5sr4h0cc9rgx31m8lptoewuyxzepna27ufv39&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
-    </a>
-  </p>
-  </br>
-  </br>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPinheirox&layout=compact&langs_count=7&theme=dracula"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        height="165"
-        src="https://github-readme-stats.vercel.app/api?username=DanielPinheirox&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-      />
-    </a>
-  </p>
-  <div style="display: inline_block"><br>
-      <h1>Olá, eu sou o Daniel! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2></h1>
-      <img align="right" src="https://komarev.com/ghpvc/?username=your-github-Aline595&color=ff69b4">
-    </div>
-
    ### Sobre mim
   <div style="display: inline_block"  >
   <img align="right" width="200" height="200" style="border-radius:30px;" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47k779dbkjerymztyn2e9g0oych6stdnlcpu8dbzel&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
